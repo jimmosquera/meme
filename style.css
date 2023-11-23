@@ -1,0 +1,32 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+    text-transform: capitalize;
+    margin: 05px;
+    font-size: medium;
+}
+img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 5%;
+}
